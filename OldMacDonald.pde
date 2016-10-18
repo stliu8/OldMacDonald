@@ -1,5 +1,5 @@
 void setup()
 {
-	Farm OMD = new Farm();
-	OMD.animalsounds();	
+	Farm omd = new Farm();
+	omd.animalsounds();	
 }
